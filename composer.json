@@ -1,0 +1,14 @@
+{
+    "name": "bistro/recipes",
+    "description": "Recipe Package",
+    "type": "package",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Frank McCoy",
+            "email": "frankmccoy.d@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {}
+}
